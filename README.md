@@ -11,7 +11,9 @@ With Nodejs, ExpressJs and MongoDB Atlas
 
 {
    "name": “<name input>",
+
    "email": “<email input>”,
+
    "country": “<country input>”
 }
 
@@ -21,7 +23,9 @@ With Nodejs, ExpressJs and MongoDB Atlas
 
 {
    "name": “Ravi",
+
    "email": “ravi@gmail.com",
+
    "country": “India”
 }
 
