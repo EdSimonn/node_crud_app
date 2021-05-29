@@ -10,11 +10,13 @@ With Nodejs, ExpressJs and MongoDB Atlas
 ( '/post)- to create a new post in the database, an example of a single post should contain detail like, 
 
 {
+
    "name": “<name input>",
 
    "email": “<email input>”,
 
    "country": “<country input>”
+
 }
 
 
@@ -22,11 +24,13 @@ With Nodejs, ExpressJs and MongoDB Atlas
 (/post/:id) - to get detail of a single post by id from the database. Example of a single post,
 
 {
+
    "name": “Ravi",
 
    "email": “ravi@gmail.com",
 
    "country": “India”
+
 }
 
 
